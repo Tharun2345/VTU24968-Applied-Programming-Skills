@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Tharun2345/VTU24968-Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/Tharun2345/VTU24968-Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tharun2345/VTU24968-Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/Tharun2345/VTU24968-Applied-Programming-Skills/tree/master/0994-rotting-oranges) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Tharun2345/VTU24968-Applied-Programming-Skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tharun2345/VTU24968-Applied-Programming-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Tharun2345/VTU24968-Applied-Programming-Skills/tree/master/1480-running-sum-of-1d-array) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Tharun2345/VTU24968-Applied-Programming-Skills/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Tharun2345/VTU24968-Applied-Programming-Skills/tree/master/0199-binary-tree-right-side-view) |
+| [0994-rotting-oranges](https://github.com/Tharun2345/VTU24968-Applied-Programming-Skills/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -197,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Tharun2345/VTU24968-Applied-Programming-Skills/tree/master/0621-task-scheduler) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Tharun2345/VTU24968-Applied-Programming-Skills/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
